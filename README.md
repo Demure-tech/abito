@@ -5,7 +5,6 @@
 
 ### Технологии в проекте 
 - HTML
-- CSS
-- JavaScript
-- Normalize
+- CSS (Normalize.css)
+- JavaScript (Swiper.js)
 - Fancybox
