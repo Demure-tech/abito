@@ -7,4 +7,3 @@
 - HTML
 - CSS (Normalize.css)
 - JavaScript (Swiper.js)
-- Fancybox
