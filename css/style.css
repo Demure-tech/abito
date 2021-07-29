@@ -165,6 +165,10 @@ body {
   line-height: 21px;
 }
 
+.banner-image {
+  width: 100%;
+}
+
 .service {
   margin-bottom: 25px;
 }
@@ -375,6 +379,15 @@ body {
 
   .card-image {
     height: 150px;
+  }
+
+  .content {
+    max-width: 350px;
+    margin-right: 10px;
+  }
+
+  .author {
+    min-width: 210px;
   }
 }
 
